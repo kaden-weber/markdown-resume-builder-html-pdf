@@ -1,2 +1,2 @@
 # Kaden Weber
-[Linkedin](www.linkedin.com/in/kaden-weber)
+[Linkedin](https://www.linkedin.com/in/kaden-weber/)
