@@ -1,3 +1,3 @@
 # kaden-weber.github.io
 
-requires `pandoc` and `weasyprint`
+Use `bash create.sh` to update output html and pdf with new changes. Requires `pandoc` and `weasyprint`.
