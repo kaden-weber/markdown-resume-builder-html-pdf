@@ -1,7 +1,7 @@
 # Resume Builder
 Easily create an html resume by editing readme files and compiling with `pandoc`. 
 
-Use `bash create.sh` to update output .html and .pdf with new changes. 
+Use `bash create.sh` to update index.html and result.pdf with new changes. 
 
 Uses `weasyprint` to create PDFs.
 
