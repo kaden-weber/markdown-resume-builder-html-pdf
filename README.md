@@ -3,6 +3,7 @@ Easily create an html resume by editing the markdown files in the content folder
 
 Use `bash create.sh` to update index.html and result.pdf with new changes. 
 
+### Requirements
 Compiles with `pandoc`
 
 Uses `weasyprint` to create PDFs.
