@@ -5,11 +5,13 @@
 
 Expected Graduation: April 2020
 
-Relevant Coursework
+Relevant Coursework:
 
-* Image Processing
-* Data structures and Algorithms 
-* Software Engineering 
+<!-- uncomment relevant coursework for different job openings -->
+<!-- * Image Processing -->
+<!-- * Deep Learning -->
+<!-- * Data structures and Algorithms -->
+* Software Engineering
 * Technical Communication
 * System Programming
 * User Experience
