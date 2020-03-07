@@ -1,7 +1,7 @@
 ## Professional Experience 
 
 ### Co-Founder and CTO
-#### *Canary Safety Inc. --- Provo, UT*
+#### *[Canary Safety](https://www.canarysafety.com/) --- Provo, UT*
 January 2020 - Present
 
 * Interviewed potential customers to continually tailor business model and user experience
