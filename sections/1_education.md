@@ -3,13 +3,13 @@
 ### BS in Computer Science, with Arabic Minor			
 *Brigham Young University, Provo, UT -- GPA: 3.6*
 
-Expected Graduation: April 2020
+Graduated April 2020
 
-Relevant Coursework:
+Selected Coursework:
 
 <!-- uncomment relevant coursework for different job openings -->
-<!-- * Image Processing -->
-<!-- * Deep Learning -->
+* Image Processing
+* Deep Learning
 <!-- * Data structures and Algorithms -->
 * Software Engineering
 * Technical Communication

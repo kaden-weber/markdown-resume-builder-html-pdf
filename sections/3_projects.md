@@ -1,6 +1,6 @@
 # Projects
 ### BYU Mars Rover Team --- University Rover Challenge
-September 2019 - May 2020
+September 2019 - April 2020
 
 * Improved and prepared a [rover](https://www.youtube.com/watch?v=BoTr3ki3cUQ) for a [world-wide competition](http://urc.marssociety.org/home) with 30 of the best prepared students from Brigham Young University 
 * Maintained a mid-sized codebase, implemented source control standards and best practices, performed code reviews, wrote unit tests
@@ -8,7 +8,7 @@ September 2019 - May 2020
 * Improved autonomous search algorithms for finding waypoints and recognizing markers
 
 ### Ascendant Anxiety Tracker
-January 2020 - Present
+January 2020 - April 2020
 
 * Working to quickly bring iOS app to market, wrote production quality code using newest frameworks like SwiftUI and Combine
 * Implemented local datastore using [GRDB](https://github.com/groue/GRDB.swift)
@@ -16,7 +16,7 @@ January 2020 - Present
 ### Crocker Innovation Fellow
 January 2019 – December 2019
 
-* Chosen as one of five juniors to represent the CS major and created innovative products as part of a cross-disciplinary entrepreneurship program
+* Chosen as one of five juniors to represent the CS major at BYU and created innovative products as part of a cross-disciplinary entrepreneurship program
 * In two weeks, wrote a [remote control app](https://github.com/kaden-weber/wheelchair-remote) for a scale model 3-wheeled omni wheelchair that sends wheel commands to an arduino over bluetooth and reports RFID tags to a server
 <!-- 
 ### Semester Project - Software Design and Testing
