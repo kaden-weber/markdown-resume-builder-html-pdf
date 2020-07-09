@@ -17,6 +17,7 @@ January 2020 - Present
 
 - Interviewed potential customers to continually tailor business model and user experience
 - Audited and implemented secure and robust application architectures
+- Awarded \$15,000 as a Miller New Venture Challenge winner
 
 ### Research Assistant
 
