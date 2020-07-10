@@ -1,6 +1,8 @@
 ## Education
 
-### BS in Computer Science, with Arabic Minor --- Brigham Young University, Provo, UT
+### BS in Computer Science, with Arabic Minor
+
+#### Brigham Young University, Provo, UT
 
 _September 2016 - April 2020 --- GPA: 3.6_
 
