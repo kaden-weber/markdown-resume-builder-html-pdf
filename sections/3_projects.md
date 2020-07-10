@@ -1,4 +1,4 @@
-# Projects
+## Projects
 
 ### BYU Mars Rover Team --- University Rover Challenge
 
