@@ -1,4 +1,4 @@
-# Personal
+## Personal
 
 - Brigham Young University Heritage Scholarship Recipient
 - Stanford HSSC alumni
