@@ -4,7 +4,7 @@
 
 #### Brigham Young University, Provo, UT
 
-_September 2016 - April 2020 --- GPA: 3.6_
+_September 2016 – April 2020, GPA: 3.6_
 
 Selected Coursework:
 
