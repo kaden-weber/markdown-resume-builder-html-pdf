@@ -8,13 +8,14 @@ _September 2016 – April 2020, GPA: 3.6_
 
 Selected Coursework:
 
-<!-- uncomment relevant coursework for different job openings -->
+<!-- potentially uncomment relevant coursework for different job openings -->
 
-- Image Processing
 - Deep Learning
 <!-- * Data structures and Algorithms -->
 - Software Engineering
+- Web Programming
 - Technical Communication
+- Image Processing
 - System Programming
 - User Experience
 - Computer Security

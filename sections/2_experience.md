@@ -7,6 +7,7 @@
 _Remote, February 2020 – Present_
 
 - Built a [python framework from scratch](https://github.com/SANDAG/SRF/tree/master/Supply/REDM) for an UrbanSim inspired real estate supply allocation model tailored specifically for a client county's data
+- Managed large geo-datasets with Pandas and ArcPy
 - Rescued an older modeling program by creating a cross platform build
 
 ### Co-Founder and CTO
@@ -16,7 +17,9 @@ _Remote, February 2020 – Present_
 _Provo, UT, January 2020 – Present_
 
 - Interviewed potential customers to continually tailor business model and user experience
-- Audited and implemented secure and robust application architectures
+- Designed MVP enterprise software product offering
+- Audited secure and robust application architecture
+- Developed an entire software stack: Vue.js, AWS Amplify (GraphQL), Lambda, Cognito and DynamoDB
 - Awarded \$15,000 as a Miller New Venture Challenge winner
 
 ### Research Assistant
